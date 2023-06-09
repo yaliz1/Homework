@@ -1,0 +1,11 @@
+.Start {
+	text-align: center;
+	background-color: yellow;
+	padding: 20px;
+}
+
+.a:hover {
+	background-color: rgb(5, 5, 78);
+	color: white;
+	font-size: larger;
+}
